@@ -1,0 +1,5 @@
+auth:
+  database: "database12345"
+  password: "password"
+  username: "long"
+  rootPassword: "root12345"
