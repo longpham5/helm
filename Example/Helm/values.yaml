@@ -2,4 +2,4 @@ auth:
   database: "database12345"
   password: "password"
   username: "long"
-  rootPassword: "root1234"
+  rootPassword: "root12345"
