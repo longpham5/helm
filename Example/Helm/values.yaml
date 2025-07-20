@@ -3,4 +3,3 @@ auth:
   password: "password"
   username: "long"
   rootPassword: "root1234"
-  enableRemoteRoot: true
